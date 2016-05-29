@@ -1,3 +1,4 @@
+/*Home*/
 body {
 	font-family: 'Cutive Mono', sans-serif;
 	text-transform: lowercase;
@@ -52,6 +53,43 @@ nav a:hover {
 	background-size: cover;
 	background-repeat: no-repeat;
 }
+
+/*Misc*/
+.ul-div {
+	padding: 20px;
+	max-width: 970px;	
+}
+
+/*The World*/
+.jumbo-gallery {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: #fff;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.world-class {
+	margin: 0 0 0 250px;
+	width: auto;
+}
+
+.img {
+	list-style: none;
+	margin: 0;
+}
+
+.world-class .img li {
+	margin-bottom: 20px;
+	width: 100%;
+}
+
+/*Its People*/
+/*Love*/
+/*Sound of Love*/
 
 footer {
 	float: left;
